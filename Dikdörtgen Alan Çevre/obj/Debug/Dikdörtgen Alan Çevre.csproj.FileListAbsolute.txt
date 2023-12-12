@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\bin\Debug\Dikdörtgen Alan Çevre.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\bin\Debug\Dikdörtgen Alan Çevre.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\bin\Debug\Dikdörtgen Alan Çevre.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\obj\Debug\Dikdörtgen Alan Çevre.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\obj\Debug\Dikdörtgen Alan Çevre.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\obj\Debug\Dikdörtgen_Alan_Çevre.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\obj\Debug\Dikdörtgen_Alan_Çevre.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\obj\Debug\Dikdörtgen Alan Çevre.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\obj\Debug\Dikdörtgen Alan Çevre.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\obj\Debug\Dikdörtgen Alan Çevre.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Dikdörtgen Alan Çevre\Dikdörtgen Alan Çevre\obj\Debug\Dikdörtgen Alan Çevre.pdb
